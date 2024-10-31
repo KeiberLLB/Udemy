@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-MapstructApplication<mapstruct>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.udemy.mapstruct.MapstructApplication",
+      "projectName": "mapstruct",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}

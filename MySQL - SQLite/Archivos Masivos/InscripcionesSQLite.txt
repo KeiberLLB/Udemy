@@ -1,0 +1,120 @@
+Astronomia,Cs Tierra Espac,Ana,Silva,11111111
+Astronomia,Astronomia Fund,Elena,Castro,11111112
+Astronomia,Tecnicas Astron,Carmen,Niz,11111113
+Astronomia,Cs Planetarias,Marlena,Morales,11111114
+Astronomia,Astrofisica,Sandra,Aicardi,11111115
+Astronomia,Din Orbital,Virginia,Malrechauffe,11111116
+Astronomia,Ast Gal y Exgal,Norma,Contreras,11111117
+Matematica,Algebra Lineal,Laura,Luz,11111118
+Matematica,Calc Vectorial,Elizabeth,Tealdi,11111119
+Matematica,Analisis Comple,Cecilia,Rosso,11111121
+Matematica,Ecuaciones Dif,Magdalena,Madruga,11111122
+Matematica,Estadistica,Alexandra,Novas,11111123
+Fisica,Fisica,Beatriz,Placeres,11111124
+Fisica,Mecanica,Damian,Mezquita,11111125
+Fisica,Termodinamica,Rosario,Iglesias,11111126
+Fisica,Electromagnet,Sergio,Carrasco,11111127
+Fisica,Ondas,Jenny,Seclen,11111128
+Fisica,Mecanica Cuanti,Dolly,Baranano,11111129
+Fisica,Mecanica Analit,Karina,Leiton,11111130
+Fisica, Mecanica Fluid,Veronica,Rivero,11111131
+Computacion,Computacion,Mary,Fajardo,11111132
+Computacion,Programacion,Beatriz,Macias,11111133
+Computacion,Disenno de Soft,Yorlyn,Utrera,11111134
+Computacion,Fisica Computac,Bibiana,Bozzolo,11111135
+Computacion,Bases de datos,Nervis,Moran,11111136
+Psicologia,Psicologia,Gabriel,Guarnieri,11111137
+Psicologia,Psicoanalisis,Monica,Rodriguez,11111138
+Psicologia,Prog Neuroling,Ernesto,Hernandez,11111139
+Psicologia,Constelac Fam,Nancy,Nancy,11111140
+Psicologia,Psic Evolutiva,Marcelo,Bravo,11111141
+Psicologia,Neurobiologia,Marisa,Casadebarbara,11111142
+Computacion,Bases de datos,Nancy,Reyna,11111143
+Psicologia,Psicologia,Mabel,Hernandez,11111144
+Psicologia,Psicoanalisis,Eduardo,De Leon,11111145
+Psicologia,Prog Neuroling,Diego,Zazpe,11111146
+Psicologia,Constelac Fam,Adriana,Albisu,11111147
+Psicologia,Psic Evolutiva,Emiliano,Silveira,11111148
+Psicologia,Neurobiologia,Nicolas,Scholderle,11111149
+Fisica,Termodinamica,Lilian,Olivera,11111150
+Fisica,Electromagnet,Samuel,Morales,11111151
+Fisica,Ondas,Gaston,Martinez,11111152
+Fisica,Mecanica Cuanti,Andrus,Alvarez,11111153
+Fisica,Mecanica Analit,Miguel,Suarez,11111154
+Fisica, Mecanica Fluid,Camila,Silva,11111155
+Computacion,Computacion,Kevin,Cuadro,11111156
+Computacion,Programacion,Noelia,Duran,11111157
+Computacion,Disenno de Soft,Pamela,Schipilov,11111158
+Astronomia,Tecnicas Astron,Ruben,Perez,11111159
+Astronomia,Cs Planetarias,Enrique,Aquino,11111160
+Astronomia,Astrofisica,Ana,Romina,11111161
+Astronomia,Din Orbital,Monica,Aquino,11111162
+Astronomia,Ast Gal y Exgal,Rocio,Espindola,11111163
+Matematica,Algebra Lineal,Juan,Jose,11111164
+Matematica,Calc Vectorial,Maria,Samurio,11111165
+Fisica, Mecanica Fluid,Franco,Iparraguirre,11111166
+Computacion,Computacion,Cecilia,Molina,11111167
+Computacion,Programacion,Diver,Errecarte,11111168
+Computacion,Disenno de Soft,Antonella,Bermudez,11111169
+Astronomia,Tecnicas Astron,Romina,Sierra,11111170
+Astronomia,Cs Planetarias,Miriam,Delgado,11111171
+Astronomia,Astrofisica,Miguel,Vega,11111172
+Astronomia,Din Orbital,Cinthya,Perez,11111173
+Astronomia,Ast Gal y Exgal,Debora,Tacoronte,11111174
+Matematica,Algebra Lineal,Adriana,Perez,11111175
+Fisica, Mecanica Fluid,Fernanda,Silvera,11111176
+Computacion,Computacion,Maria,Mazzulla,11111177
+Computacion,Programacion,Josefina,Cedres,11111178
+Computacion,Disenno de Soft,Virginia,Mendez,11111179
+Astronomia,Tecnicas Astron,Patricia,Postiglione,11111180
+Astronomia,Cs Planetarias,Romina,Perez,11111181
+Astronomia,Astrofisica,Lailie,Charbonnier,11111182
+Astronomia,Din Orbital,Jorge,Otero,11111183
+Astronomia,Ast Gal y Exgal,Carolina,Martorell,11111184
+Matematica,Algebra Lineal,Juli,Acevedo,11111185
+Matematica,Calc Vectorial,Santiago,Piovene,11111186
+Matematica,Analisis Comple,Andres,Lapeira,11111187
+Matematica,Ecuaciones Dif,Araceli,Perez,11111188
+Matematica,Estadistica,Natali,Gonzalez,11111189
+Fisica,Fisica,Antonella,Palumbo,11111190
+Fisica,Mecanica,Niurka,Udemys,11111191
+Fisica,Termodinamica,Ana,Texeira,11111192
+Fisica,Electromagnet,Elsa,Nunez,11111193
+Fisica,Ondas,Virginia,De,11111194
+Fisica,Mecanica Cuanti,Mathias,Acosta,11111195
+Fisica,Mecanica Analit,Nancy,Torres,11111196
+Fisica,Mecanica Fluid,Maria,Valenzuela,11111197
+Computacion,Computacion,Amiurky,Viallard,11111198
+Computacion,Programacion,Fernando,Rodriguez,11111199
+Computacion,Disenno de Soft,Roberto,De,11111200
+Computacion,Fisica Computac,Ricardo,Parraga,11111201
+Computacion,Bases de datos,Luis,Delgado,11111202
+Psicologia,Psicologia,Jonathan,Lopez,11111203
+Psicologia,Psicoanalisis,Maria,del,11111204
+Psicologia,Prog Neuroling,Carlos,Leiva,11111205
+Psicologia,Constelac Fam,Silvia,Barite,11111206
+Psicologia,Psic Evolutiva,Carlos,Martinez,11111207
+Psicologia,Neurobiologia,Johan,Cervantes,11111208
+Computacion,Bases de datos,Alejandro,Rodriguez,11111209
+Psicologia,Psicologia,Belkis,Sanchez,11111210
+Psicologia,Psicoanalisis,Karina,Rodriguez,11111211
+Psicologia,Prog Neuroling,Mario,Lizano,11111212
+Psicologia,Constelac Fam,Mariangel,Zambrano,11111213
+Psicologia,Psic Evolutiva,Leandro,Arce,11111214
+Psicologia,Neurobiologia,Edy,Gonzalez,11111215
+Fisica,Termodinamica,Viviana,Irigoyen,11111216
+Fisica,Electromagnet,Eva,Religiosa,11111217
+Fisica,Ondas,Anassim,Cordero,11111218
+Fisica,Mecanica Cuanti,Regulo,Ramirez,11111219
+Fisica,Mecanica Analit,Gabriela,Denino,11111220
+Fisica,Mecanica Fluid,Nelly,Rodriguez,11111221
+Computacion,Computacion,Gimena,Martinez,11111222
+Computacion,Programacion,Maria,Damacena,11111223
+Computacion,Disenno de Soft,Juan,Prestes,11111224
+Astronomia,Tecnicas Astron,Paola,Innelli,11111225
+Astronomia,Cs Planetarias,Excer,Montilla,11111226
+Astronomia,Astrofisica,Andrea,Landro,11111227
+Astronomia,Din Orbital,Leidy,Pradie,11111228
+Astronomia,Ast Gal y Exgal,Maria,Bonia,11111229
+Matematica,Algebra Lineal,Yanaina,Sampayo,11111230
+Matematica,Calc Vectorial,Wally,Rodriguez,11111231
